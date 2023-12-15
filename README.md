@@ -6,7 +6,9 @@
 
 I'm a frontend developer from Russia. 
 
-I'm interested in web development. 
+I'm interested in web development.Proficient in HTML, CSS, and JavaScript. 
+Continuously learning new frameworks like React and Vue.js.
+Eager to contribute and create exceptional user interfaces.
 
  <h2><b>📚 My stack</b></h2>
   <p>
