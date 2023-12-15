@@ -17,7 +17,7 @@ Eager to contribute and create exceptional user interfaces.<br>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=js,ts,html,css&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=react&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode,figma&perline=7" />
     <br>
