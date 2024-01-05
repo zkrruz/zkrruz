@@ -25,9 +25,9 @@ Eager to contribute and create exceptional user interfaces.<br>
 
 
 <h2><b>⭐GitHub stats</b></h2>
-<a href="https://github.com/sadanandpai/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanandpai&theme=radical&hide=glsl,python" />
+<a href="https://github.com/zkrruz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkrruz&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadanandpai&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zkrruz&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
 </a>
